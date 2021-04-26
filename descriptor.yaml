@@ -1,0 +1,7 @@
+code: GEN1
+description: Multi Purpose Banner (GEN)
+bundle-type: system-level-bundle
+components:
+  fragments: []
+  contentTypes:
+    - contentTypes/gen-descriptor.yaml
