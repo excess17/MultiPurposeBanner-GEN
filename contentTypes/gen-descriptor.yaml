@@ -628,7 +628,7 @@ attributes:
           nestedAttribute: null
           compositeAttributes: null
         - code: animDelay2
-          type: Boolean
+          type: EnumeratorMap
           name: animDelay2
           names:
             en: animDelay2
